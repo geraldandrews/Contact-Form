@@ -76,3 +76,12 @@ input:focus,
 textarea:focus {
     outline: 1px solid #000;
 }
+
+a {
+    color: #0b3c62;
+    font-style: italic;
+}
+
+a:hover {
+    color: #fff;
+}
